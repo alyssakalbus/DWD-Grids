@@ -2,7 +2,7 @@
 
 Design and Develop a website about New York using a strong grid drawn from Swiss Poster Design.
 
-Availble to View [Here](https://glitch.com/)
+Availble to View [Here](https://famous-watery-manuscript.glitch.me)
 
 ## Mood Board and Inspiration
 
