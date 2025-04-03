@@ -69,17 +69,6 @@
   grid-row: 1 / 10;
 }
 
-.right-image {
-  grid-column: 25 / 34;
-  grid-row: 10 / 24;
-  background-image: url("img/press.gif");
-  background-size: cover;
-  background-position: center; 
-  background-repeat: no-repeat; 
-  width: 100%; 
-  height: 100%; 
-}
-
 .footer {
   grid-column: 1 / 34;
   grid-row: 22 / 24;
