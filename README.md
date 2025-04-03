@@ -6,7 +6,11 @@ Availble to View at [Glitch.com](https://glitch.com/)
 
 ## Mood Board and Inspiration
 
-I've done UI/UX work for the past couple of years and while I do enjoy making websites I hate the standard conventions around how they're supposed to look, act, and feel. I miss the days where websites were more fun and had more life. I understand accessability issues, but I also just want to make things. This week I was inspired to create an interaction that goes against these standards. I was really drawn to the the idea of working with phsyics, and having an object be different every time you load the page. I found some examples that I think embody that idea while maintaining a swiss-style grid structure. While moodboarding I also came across some designs with a strong grid, but that kearn the letters much closer together than typical swiss posters. 
+I've done UI/UX work for the past couple of years, and while I do enjoy making websites, I hate the standard conventions around how they're supposed to look, act, and feel. I miss the days when websites were more fun and had more life. I understand accessibility issues, but I also just want to make things.
+
+This week, I was inspired to create an interaction that goes against these standards. I was really drawn to the idea of working with physics and having an object behave differently every time you load the page. I found some examples that embody that idea while still maintaining a Swiss-style grid structure.
+
+While moodboarding, I also came across some designs with a strong grid but with letter-spacing (kerning) much tighter than typical Swiss posters.
 
 <table>
   <tr>
@@ -22,11 +26,11 @@ I've done UI/UX work for the past couple of years and while I do enjoy making we
   <tr>
     <td align="center">
       <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_MoodBoard_3.gif" width="300"/><br>
-      On Load
+      Mood Board Image 3
     </td>
     <td align="center">
       <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_MoodBoard_4.jpg" width="300"/><br>
-      Interaction
+      Mood Board Image 4
     </td>
   </tr>
 </table>
