@@ -2,7 +2,7 @@
 
 Design and Develop a website about New York using a strong grid drawn from Swiss Poster Design.
 
-Availble to View at [Glitch.com](https://glitch.com/)
+Availble to View [Here](https://glitch.com/)
 
 ## Mood Board and Inspiration
 
@@ -37,6 +37,8 @@ While moodboarding, I also came across some designs with a strong grid but with 
 
 ## Sketches, Wireframes, and Style Guide
 
+I wish I had more time to spend on design, but I also wanted to spent a good bulk of time exploring interaction. I use very minimal generative AI when I work so I spent a lot of time figuring certain things out.
+
 <table>
   <tr>
     <td align="center">
@@ -55,12 +57,22 @@ While moodboarding, I also came across some designs with a strong grid but with 
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="400"/><br>
+      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_OnLoad.gif" width="400"/><br>
       On Load
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="400"/><br>
+      <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_Interaction_1.gif" width="400"/><br>
       Interaction
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Responsive_1.gif" width="400"/><br>
+      Responsive #1 - Need to Add a Third Breakpoint
+    </td>
+    <td align="center">
+      <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_Interaction_2.gif" width="400"/><br>
+      Responsive #2 - Need to Adjust Interaction for Mobile
     </td>
   </tr>
 </table>
