@@ -22,11 +22,11 @@ I've done UI/UX work for the past couple of years and while I do enjoy making we
   <tr>
     <td align="center">
       <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_MoodBoard_3.gif" width="300"/><br>
-      Mood Board Image 3
+      On Load
     </td>
     <td align="center">
       <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_MoodBoard_4.jpg" width="300"/><br>
-      Mood Board Image 4
+      Interaction
     </td>
   </tr>
 </table>
@@ -52,11 +52,11 @@ I've done UI/UX work for the past couple of years and while I do enjoy making we
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="400"/><br>
-      Mood Board Image 1
+      On Load
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="400"/><br>
-      Mood Board Image 2
+      Interaction
     </td>
   </tr>
 </table>
