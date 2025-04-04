@@ -52,7 +52,7 @@ I wish I had more time to spend on design, but I also wanted to spent a good bul
   </tr>
 </table>
 
-## Final Design
+## Final Design (Still Kind of WIP)
 
 <table>
   <tr>
